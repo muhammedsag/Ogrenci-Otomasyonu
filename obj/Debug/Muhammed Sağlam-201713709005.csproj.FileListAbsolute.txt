@@ -1,0 +1,6 @@
+C:\Users\Bilgisayar\Desktop\Muhammed Sağlam-201713709005\Muhammed Sağlam-201713709005\bin\Debug\Muhammed Sağlam-201713709005.exe.config
+C:\Users\Bilgisayar\Desktop\Muhammed Sağlam-201713709005\Muhammed Sağlam-201713709005\bin\Debug\Muhammed Sağlam-201713709005.exe
+C:\Users\Bilgisayar\Desktop\Muhammed Sağlam-201713709005\Muhammed Sağlam-201713709005\bin\Debug\Muhammed Sağlam-201713709005.pdb
+C:\Users\Bilgisayar\Desktop\Muhammed Sağlam-201713709005\Muhammed Sağlam-201713709005\obj\Debug\Muhammed Sağlam-201713709005.csprojResolveAssemblyReference.cache
+C:\Users\Bilgisayar\Desktop\Muhammed Sağlam-201713709005\Muhammed Sağlam-201713709005\obj\Debug\Muhammed Sağlam-201713709005.exe
+C:\Users\Bilgisayar\Desktop\Muhammed Sağlam-201713709005\Muhammed Sağlam-201713709005\obj\Debug\Muhammed Sağlam-201713709005.pdb
